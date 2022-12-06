@@ -20,3 +20,5 @@ jest.results.json
 cypress/videos
 cypress/screenshots
 cypress/downloads
+package-lock.json
+yarn.lock
